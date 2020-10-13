@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN Shopping Web site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupesh-malpani-rfh/shopping.git"
+  },
+  "author": "Rupesh Malpani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupesh-malpani-rfh/shopping/issues"
+  },
+  "homepage": "https://github.com/rupesh-malpani-rfh/shopping#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
